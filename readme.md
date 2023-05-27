@@ -7,7 +7,7 @@ Team Members:-
 Sujit Upadhyay,
 Nikhil SIngh
 
-<h3>To Visit Website   <a href='https://jolly-choux-78cc48.netlify.app/'>Click here</a></h3>
+<h3>To Visit Website   <a href='https://joyful-llama-b836ae.netlify.app'>Click here</a></h3>
  
 <h2>Tech Stack</h2>
 <div>
